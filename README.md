@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Long story short: Cloud native Azure Architect from Germany with a ❤️ for Coding who also loves Psychology & is always self developing.
+
 <!--
 **timmek123/timmek123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
